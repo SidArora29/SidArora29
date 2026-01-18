@@ -6,7 +6,7 @@
   ‎ ‎ ‎ ‎ ‎
   
 # 💫 About Me:
-🔭 I’m currently working on Autonomous Underwater Vehicle<br>👯 I’m looking to collaborate on DL, CV and Robotics projects<br>📫 How to reach me siddhantarora396@gmail.com<br>
+🔭 I’m currently working on Autonomous Underwater Vehicle<br>👯 I’m looking to collaborate on Perception and Robotics projects<br>📫 How to reach me siddhantarora396@gmail.com<br>
 
 
 ## 🌐 Socials:
