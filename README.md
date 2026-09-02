@@ -1,34 +1,195 @@
-                                                                                                                                                                   
-  ![](https://komarev.com/ghpvc/?username=SidArora29&color=red&style=flat-square)
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=220&section=header&text=SIDDHANT%20ARORA&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=ROBOTICS%20%7C%20AI%20%7C%20SOFTWARE&descAlignY=60&descSize=18&animation=fadeIn"/>
 
-<!---  [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/real-time-seamless-single-shot-6d-object-pose/6d-pose-estimation-on-occlusion)](https://paperswithcode.com/sota/6d-pose-estimation-on-occlusion?p=real-time-seamless-single-shot-6d-object-pose) ---> 
-  ‎ ‎ ‎ ‎ ‎
-  
-# 💫 About Me:
-🔭 I’m currently working on Autonomous Underwater Vehicle<br>👯 I’m looking to collaborate on Perception and Robotics projects<br>📫 How to reach me siddhantarora396@gmail.com<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=Robotics+%26+AI+Engineer;Building+Intelligent+Systems;Perception+%7C+SLAM+%7C+Computer+Vision;Autonomy+%7C+Deep+Learning+%7C+Software"/></a>
 
+<br/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/siddhantarora369/) 
+<img src="https://img.shields.io/badge/M.S.%20Robotics-University%20of%20Michigan-6366F1?style=for-the-badge&logo=university&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20%26%20Robotics-Computer%20Science-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ann%20Arbor-MI-312E81?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
-<!-- # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TonyOx369&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=TonyOx369&theme=dark&hide_border=false)<br/> 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TonyOx369&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+<br/><br/>
 
-<!-- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=TonyOx369&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
+<a href="https://www.linkedin.com/in/siddhantarora369"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sidaro@umich.edu"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/SidArora29"><img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/><br/>
 
-<!-- ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=TonyOx369&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
+<img src="https://komarev.com/ghpvc/?username=SidArora29&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/SidArora29?style=for-the-badge&color=4F46E5&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/stars/SidArora29?style=for-the-badge&color=7C3AED&label=STARS"/>
 
-<!-- ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
--->
+</div>
 
+---
+
+## About Me
+
+I'm a robotics graduate student interested in the intersection of intelligent software, perception, autonomy, and machine learning.
+
+My interests include:
+
+**Robotics · Computer Vision · SLAM · State Estimation · Autonomous Systems · Deep Learning · AI · Multi-Robot Systems · Embedded Robotics**
+
+Currently pursuing an M.S. in Robotics at the University of Michigan.
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p><img src="https://skillicons.dev/icons?i=cpp,python,matlab"/></p>
+
+### Robotics & AI
+
+<p><img src="https://skillicons.dev/icons?i=ros,pytorch,tensorflow,opencv,arduino"/></p>
+
+### Systems & Tools
+
+<p><img src="https://skillicons.dev/icons?i=linux,docker,git"/></p>
+
+---
+
+## Areas of Interest
+
+### 🤖 Robotics
+
+Autonomous systems, robot software, perception
+
+### 👁️ Computer Vision
+
+Visual understanding, feature-based methods, scene perception
+
+### 🧭 SLAM
+
+Mapping, localization, visual-inertial systems
+
+### 📐 State Estimation
+
+Sensor fusion, filtering, optimization
+
+### 🧠 AI / ML
+
+Deep learning and intelligent perception
+
+### 🚁 Autonomy
+
+Navigation, planning and decision-making
+
+### 🌐 Multi-Robot Systems
+
+Coordination, communication and collective behavior
+
+### ⚙️ Embedded Systems
+
+Real-time robotics on resource-constrained hardware
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/SidArora29"><img height="180" src="./profile/stats.svg" alt="GitHub Stats"/></a>
+<a href="https://github.com/SidArora29"><img height="180" src="./profile/top-langs.svg" alt="Top Languages"/></a>
+
+<br/><br/>
+
+<img width="520" src="./profile/streak.svg" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="./profile/trophy.svg" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/SidArora29/SidArora29/output/activity-graph.svg" alt="Contribution Activity"/>
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SidArora29/SidArora29/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SidArora29/SidArora29/output/github-contribution-grid-snake.svg">
+<img alt="Contribution Snake" src="https://raw.githubusercontent.com/SidArora29/SidArora29/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
+
+---
+
+## Currently
+
+```yaml
+status: "Building & learning"
+
+learning:
+  - Robotics
+  - Perception
+  - SLAM
+  - State Estimation
+  - Autonomous Systems
+  - Machine Learning
+
+building:
+  - Intelligent robotic systems
+  - Real-time perception pipelines
+  - Autonomous software
+
+exploring:
+  - Modern computer vision
+  - 3D scene representations
+  - Robot localization
+  - AI for physical systems
+
+open_to:
+  - Robotics
+  - AI / ML
+  - Computer Vision
+  - Autonomous Systems
+  - Research
+  - Interesting engineering problems
+```
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="mailto:sidaro@umich.edu"><img src="https://img.shields.io/badge/Gmail-sidaro%40umich.edu-D946EF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/siddhantarora369"><img src="https://img.shields.io/badge/LinkedIn-Siddhant%20Arora-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/SidArora29"><img src="https://img.shields.io/badge/GitHub-SidArora29-312E81?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:312e81&height=120&section=footer"/>
+
+**Build systems. Solve problems. Make robots intelligent.**
+
+</div>
