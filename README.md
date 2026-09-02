@@ -12,11 +12,6 @@
 <br/>
 
 <img src="https://img.shields.io/badge/M.S.%20Robotics-University%20of%20Michigan-6366F1?style=for-the-badge&logo=university&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20%26%20Robotics-Computer%20Science-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Ann%20Arbor-MI-312E81?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-<br/>
-
-<img src="https://img.shields.io/badge/M.S.%20Robotics-University%20of%20Michigan-6366F1?style=for-the-badge&logo=university&logoColor=white"/>
 <img src="https://img.shields.io/badge/Robotics-Computer%20Science-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Ann%20Arbor-MI-312E81?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
